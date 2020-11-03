@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+  justify-content: right;
+  flex-wrap: wrap;
+  height: 10vh;
+}
+h5 {
+  margin: 5px 5px;
+  text-align: justify-all;
+}
+
+.search {
+  height: 80vh;
+}
+.search img {
+  display: flex;
+  justify-content: center;
+  margin: 20px 38%;
+  height: 100px;
+}
+.search label {
+  display: flex;
+  justify-content: center;
+}
+.search input {
+  width: 500px;
+  margin-bottom: 20px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+.footer {
+  display: flex;
+  background-color: lightgrey;
+  height: 10vh;
+  justify-content: space-between;
+}
+.footer h5 {
+  margin: 25px 5px;
+}
+.right {
+  display: flex;
+  justify-content: right;
+}
+.left {
+  display: flex;
+  justify-content: left;
+}
