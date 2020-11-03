@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c40c7bb5-a957-4ed2-94e6-f9538535a347" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/sc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/unnamed.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604415388613</updated>
       <workItem from="1604415390417" duration="2805000" />
-      <workItem from="1604421624069" duration="1192000" />
+      <workItem from="1604421624069" duration="1523000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1604418165948</created>
@@ -96,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604418165948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finalize">
+      <created>1604423036685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604423036685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +132,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="finalize" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalize" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="65" key="#Deployment" timestamp="1604418249245">
@@ -140,9 +144,13 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="459" y="211" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1604418280285" />
-    <state x="403" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604418113934">
+    <state x="240" y="136" key="Vcs.Push.Dialog.v2" timestamp="1604423053952">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="403" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1604418113934" />
+    <state x="240" y="136" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1604423053952" />
+    <state x="403" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604423080962">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="403" y="317" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1604423080962" />
   </component>
 </project>
